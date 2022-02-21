@@ -1,2 +1,2 @@
-# Challenge-Card-Game-Becode.
+# Challenge-Card-Game-Becode
 My first Project
